@@ -1,0 +1,13 @@
+package tp4_3;
+
+public class cuillere extends Ustensile{
+	protected double longeur;
+	public cuillere(int annee,double longeur) {
+		super(annee);
+		this.longeur=longeur;
+	}
+	public double calculerValeur() {
+		
+	}
+	
+}

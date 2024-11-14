@@ -1,0 +1,9 @@
+package tp4_3;
+
+public class assiete extends Ustensile{
+	public assiete(int annee) {
+		super(annee);
+	}
+	
+
+}

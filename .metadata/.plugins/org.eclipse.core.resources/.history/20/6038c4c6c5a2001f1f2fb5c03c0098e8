@@ -1,0 +1,7 @@
+package tp4_3;
+
+public class assietteCarre {
+	private double cote;
+	
+
+}

@@ -1,0 +1,11 @@
+package tp4_3;
+
+public class assietteRonde extends assiete{
+	private double rayon;
+	
+	public assietteRonde(int annee, double rayon) {
+		super(annee);
+		rayon
+	}
+
+}

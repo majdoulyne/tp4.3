@@ -1,0 +1,15 @@
+package tp4_3;
+
+public abstract class assiete extends Ustensile{
+	
+	public assiete(int annee) {
+		super(annee);
+	}
+	
+	public static double calculerSurf() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+	
+
+}
